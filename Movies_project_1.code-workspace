@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "photos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Movies_project_1"
+	}
+}
